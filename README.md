@@ -1,7 +1,7 @@
-<<<<<<< HEAD
+👽👽👽
 # fluttertodo
 
-A new Flutter application. Todo List
+A new Flutter application. Todo List 📝
 
 ## Getting Started
 
